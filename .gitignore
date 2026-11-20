@@ -1,0 +1,4 @@
+# Hasil build (installer diunggah lewat GitHub Releases, bukan ke repo)
+*.exe
+*.pdb
+dist/
